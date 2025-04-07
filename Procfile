@@ -1,1 +1,1 @@
-worker: python bot_with_buttons6.py
+python3 bot_with_buttons6.py
